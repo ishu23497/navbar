@@ -5,8 +5,7 @@ A modern, fully responsive navigation bar built using HTML, CSS, and JavaScript,
 <p align="center"> <img src="https://img.shields.io/badge/Navbar-Responsive-blue" /> <img src="https://img.shields.io/badge/Theme-Dark%20%7C%20Light-purple" /> <img src="https://img.shields.io/badge/Tech-HTML%20CSS%20JS-yellow" /> <img src="https://img.shields.io/badge/Status-Working-success" /> </p>
 🔗 Live Preview
 
-👉 Add link here if deployed
-
+👉 https://navbar-ashen-beta.vercel.app/
 ✨ Features
 
 🎯 Clean & minimal UI
